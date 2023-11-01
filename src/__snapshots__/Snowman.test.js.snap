@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="6.png"
+    />
+    <p
+      class="Snowman-wrongGuesses"
+    >
+      Number wrong: 
+      6
+    </p>
+    <p>
+      You lose!
+    </p>
+    <p
+      class="Snowman-correctWord"
+    >
+      The correct word was: 
+      apple
+    </p>
+    <div>
+      <button>
+        Restart
+      </button>
+    </div>
+  </div>
+</div>
+`;
